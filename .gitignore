@@ -26,6 +26,9 @@
 # Visual Studio cache directory
 .vs/
 
+# Rider cache directory
+.idea/
+
 # Gradle cache directory
 .gradle/
 
@@ -46,6 +49,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.DotSettings
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -59,7 +63,6 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
-*.unitypackage.meta
 *.app
 
 # Crashlytics generated file

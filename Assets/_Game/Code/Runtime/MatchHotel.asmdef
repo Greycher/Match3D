@@ -1,0 +1,19 @@
+{
+    "name": "MatchHotel",
+    "rootNamespace": "MatchHotel",
+    "references": [
+        "GUID:c1f63a0908984221a932efcba1bee8a7",
+        "GUID:d59377c99629d594b81bad58d5faf142",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "MatchHotel.Model",
+    "rootNamespace": "MatchHotel.Model",
+    "references": [
+        "GUID:c1f63a0908984221a932efcba1bee8a7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

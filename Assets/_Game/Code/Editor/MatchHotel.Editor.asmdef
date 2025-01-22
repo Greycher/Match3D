@@ -1,0 +1,20 @@
+{
+    "name": "MatchHotel.Editor",
+    "rootNamespace": "MatchHotel.Editor",
+    "references": [
+        "GUID:801a12308304d72498bfae44f3eea978",
+        "GUID:c1f63a0908984221a932efcba1bee8a7",
+        "GUID:d59377c99629d594b81bad58d5faf142"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
